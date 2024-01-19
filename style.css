@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-color: #F3EEEA;
+    font-family: 'Work Sans', sans-serif;
+    color: #776B5D;
+}
+
+#t1{
+    font-size: 8rem;
+    text-align: center;
+    margin: 10px 0 15px 0;
+}
+
+.diceArea{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dice{
+    margin: 50px;
+    text-align: center;
+}
+
+.dice h3{
+    margin-bottom: 30px;
+}
+
+#inst{
+    text-align: center;
+}
